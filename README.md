@@ -111,11 +111,3 @@ The system provides:
 
 ---
 
-## 👨‍💻 Author
-
-**Charan Pathakota**  
-Java Full Stack Developer  
-
-
-
----
